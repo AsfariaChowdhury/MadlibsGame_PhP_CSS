@@ -1,0 +1,76 @@
+header{
+  background-color: #d1bea8;
+  /*color: #800080;*/
+  color: #841b2d;
+  text-align: center;
+  font-family: "Indie Flower";
+  font-size: 300%;
+  /*font-style: italic;*/
+  padding: 1.5% 1.5% 0% 1.5%;
+  margin: -1.5%;
+}
+
+hr{
+  background-color: #841b2d;
+  margin-left: -1.5%;
+  margin-right: -1.5%;
+  padding: 0.25%;
+  border-color: #841b2d;
+}
+
+main{
+  /*background-color: #f49ac2;*/
+  /*margin-top: 1%;*/
+  padding: 1%;
+  font-size: 125%;
+  font-weight: bold;
+  color: #696969;
+  font-family: "Otomanopee One";
+}
+
+body{
+  /*background-color: #f49ac2;*/
+  background-color: #fddde6;
+}
+
+.form1{
+  text-align: center;
+}
+
+.submit_format{
+  background-color: #d1bea8;
+  color: #841b2d;
+  font-family: "Indie Flower";
+  font-size: 125%;
+  border-color: #d1bea8;
+  border-radius: 10%;
+}
+
+.submit_format:hover{
+  background-color: #696969;
+  color: #fddde6;
+  border-width:thick;
+  cursor: pointer;
+}
+
+.game_result{
+  background-color: #696969;
+  color: #fddde6;
+  font-weight: lighter;
+  padding: 1%;
+  margin-top: -0.8%;
+  margin-left: -1.5%;
+  margin-right: -1.5%;
+}
+
+footer{
+  background-color: #d1bea8;
+  /*color: #800080;*/
+  color: #841b2d;
+  text-align: center;
+  font-family: "Indie Flower";
+  font-size: 120%;
+  /*font-style: italic;*/
+  padding: 1.5% 1.5% 1.5% 1.5%;
+  margin: -1.5%;
+}
